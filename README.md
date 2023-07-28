@@ -15,3 +15,5 @@ Actualice su repositorio en GitHub y envielo en el archivo comprimido con su pro
 
 Es importante destacar que la aplicación tiene una aplicación previa, de tareas anteriores, por lo que tiene un trabajo inicial de Usuario y de empresas proveedoras
 Para no confundir con los "users", los "Usuarios" iniciales pasaron a ser clientes. Entonces, la aplicación tiene un registro de clientes y proveedores y sus listados y el trabajo con "users", con login y registro
+
+Solo los usuarios users registrados pueden ver el resto de la página web, la aplicación, que son los clientes y proveedores
