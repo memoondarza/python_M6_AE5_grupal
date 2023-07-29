@@ -1,5 +1,5 @@
 # python_M6_AE5_grupal
-Tarea python_M6_AE5_grupal
+Tarea python_M6_AE5_grupal: Sara Corvalan, Guillermo Ondarza, Romina Velasco
 
 DESARROLLO
 Continuando con su proyecto, desarrolle toda la lógica necesaria para que los usuarios se puedan
